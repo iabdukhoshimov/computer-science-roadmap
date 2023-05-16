@@ -8,23 +8,19 @@ References: <https://www.learncpp.com> , <https://en.cppreference.com/w/>
 
 References: <https://www.geeksforgeeks.org/data-structures/> , <https://www.geeksforgeeks.org/fundamentals-of-algorithms/>
 
-## 3. Object Oriented Programming
+## 3. Operating Systems and Networking
 
-References: <https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/> , <https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/>
+References: <https://www.geeksforgeeks.org/operating-systems/> , <https://www.geeksforgeeks.org/introduction-of-process-management/> , <https://www.geeksforgeeks.org/computer-network-tutorials/> , <https://www.geeksforgeeks.org/computer-networks-set-1/>
 
-## 4. Operating Systems
+## 4. Design Patterns
 
-References: <https://www.geeksforgeeks.org/operating-systems/> , <https://www.geeksforgeeks.org/introduction-of-process-management/>
+References: <https://www.geeksforgeeks.org/software-design-patterns/> , <https://en.wikipedia.org/wiki/Software_design_pattern>
 
-## 5. Computer Networks
+## 5. System Design
 
-References: <https://www.geeksforgeeks.org/computer-network-tutorials/> , <https://www.geeksforgeeks.org/computer-networks-set-1/>
+References: <https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo> , <https://github.com/donnemartin/system-design-primer>, "Grokking the System Design Interview" by Eduonix Learning Solutions and Design Gurus <https://www.youtube.com/watch?v=a2rcgzludDU&ab_channel=theroadmap>
 
 ## 6. Database Management Systems
 
 References: <https://www.geeksforgeeks.org/dbms/> , <https://www.prisma.io/dataguide/intro/what-are-databases> ,
 <https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm&ab_channel=StanfordDbclass>
-
-## 7. Problem Solving
-
-References: <https://leetcode.com/problemset/all/>
